@@ -1,0 +1,13 @@
+Order
+
+Attributes
+order_number (integer)
+food (array)
+is_carry_out (boolean)
+name (string)
+
+Methods
+calculate_order_number (adds 1 to order_number)
+order_food (lists all foods ordered)
+dine_in (sets is_carry_out to false)
+add_name (updates name attribute)
