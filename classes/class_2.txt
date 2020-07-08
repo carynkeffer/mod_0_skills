@@ -9,5 +9,5 @@ OpenBar (boolean)
 Methods
 change_date (modify ReservationDate)
 add_guest (add_guest to number of GuestTotal)
-birthday_celebration (SpecialEvent set to true)
-dry_wedding (OpenBar set to false)
+register_birthday_celebration (SpecialEvent set to true)
+request_dry_wedding (OpenBar set to false)
