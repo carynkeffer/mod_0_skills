@@ -1,0 +1,9 @@
+food = 'breakfast'
+is_delicious = true
+food = 'lunch'
+num2 = 1
+num7 = 7
+quotient = num2 / num7
+songs = ['Yellow Submarine', 'Shotgun', 'My Girl']
+songs.drop(1)
+food.count(food)
