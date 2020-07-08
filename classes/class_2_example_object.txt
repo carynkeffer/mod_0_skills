@@ -9,5 +9,5 @@ OpenBar (false)
 Method Results
 change_date (modify ReservationDate to December 2nd, 2020)
 add_guest (add_guest + GuestTotal)
-birthday_celebration (set SpecialEvent to true)
-dry_wedding (OpenBar set to false)
+register_birthday_celebration (set SpecialEvent to true)
+request_dry_wedding (OpenBar set to false)
