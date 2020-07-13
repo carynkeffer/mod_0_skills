@@ -10,4 +10,4 @@ Method Results
 calculate_order_number (add 1 to 0)
 add_a_la_carte (add 'with lime' to food array)
 dine_in (false)
-add_name (update name to 'Kat')
+update_order_name (update name to 'Cat')
