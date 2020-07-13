@@ -10,4 +10,4 @@ Methods
 calculate_order_number (adds 1 to order_number)
 add_a_la_carte (modify food order to include a_la_carte item)
 dine_in (set is_carry_out to false)
-add_name (updates name attribute)
+update_order_name (updates name attribute)
