@@ -1,13 +1,13 @@
 Reservation
 
 Attributes
-ReservationDate (datetime)
-GuestTotal (number)
-SpecialEvent (boolean)
-OpenBar (boolean)
+reservation_date (datetime)
+guest_total (number)
+special_event (boolean)
+open_bar (boolean)
 
 Methods
-change_date (modify ReservationDate)
-add_guest (add_guest to number of GuestTotal)
-register_birthday_celebration (SpecialEvent set to true)
-request_dry_wedding (OpenBar set to false)
+change_date (modify reservation_date)
+add_guest (add_guest to number of guest_total)
+register_special_event (special_event set to true)
+request_dry_event (open_bar set to false)
